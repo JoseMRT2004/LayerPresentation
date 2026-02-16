@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2tswNCeiOmo=",
+  "dgSpecHash": "tNxfZhy28nI=",
   "success": true,
-  "projectFilePath": "/home/mrtaveras/.pjt/project-2026/LayerPresentation/AppMultimedia.csproj",
+  "projectFilePath": "/home/mrtaveras/Documents/ITLA-MATERIAS/Programacion-II/Projects/LayerPresentation/AppMultimedia.csproj",
   "expectedPackageFiles": [
     "/home/mrtaveras/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
     "/home/mrtaveras/.nuget/packages/microsoft.windowsdesktop.app.ref/9.0.11/microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",

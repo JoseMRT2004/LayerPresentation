@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mrtaveras/.pjt/project-2026/LayerPresentation/AppMultimedia.csproj",
+      "projectUniqueName": "/home/mrtaveras/Documents/ITLA-MATERIAS/Programacion-II/Projects/LayerPresentation/AppMultimedia.csproj",
       "projectName": "AppMultimedia",
-      "projectPath": "/home/mrtaveras/.pjt/project-2026/LayerPresentation/AppMultimedia.csproj",
+      "projectPath": "/home/mrtaveras/Documents/ITLA-MATERIAS/Programacion-II/Projects/LayerPresentation/AppMultimedia.csproj",
       "packagesPath": "/home/mrtaveras/.nuget/packages/",
-      "outputPath": "/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/",
+      "outputPath": "/home/mrtaveras/Documents/ITLA-MATERIAS/Programacion-II/Projects/LayerPresentation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mrtaveras/.nuget/NuGet/NuGet.Config"
