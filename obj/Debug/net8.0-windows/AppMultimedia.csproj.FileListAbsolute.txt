@@ -1,0 +1,14 @@
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.AssemblyInfoInputs.cache
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.AssemblyInfo.cs
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.csproj.CoreCompileInputs.cache
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/bin/Debug/net8.0-windows/AppMultimedia
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/bin/Debug/net8.0-windows/AppMultimedia.deps.json
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/bin/Debug/net8.0-windows/AppMultimedia.runtimeconfig.json
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/bin/Debug/net8.0-windows/AppMultimedia.dll
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/bin/Debug/net8.0-windows/AppMultimedia.pdb
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.dll
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/refint/AppMultimedia.dll
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.pdb
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/AppMultimedia.genruntimeconfig.cache
+/home/mrtaveras/.pjt/project-2026/LayerPresentation/obj/Debug/net8.0-windows/ref/AppMultimedia.dll
